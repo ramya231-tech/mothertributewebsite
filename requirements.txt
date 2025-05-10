@@ -2,3 +2,6 @@ streamlit
 pillow
 transformers
 fpdf
+torch
+torchvision
+
